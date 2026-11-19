@@ -20,6 +20,8 @@ build/
 
 # Testing & Coverage
 coverage/
+.temp_db/
+data/
 
 # Logs
 *.log
